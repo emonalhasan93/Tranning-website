@@ -15,7 +15,7 @@ const Services = () => {
            <h2 className='text-center text-info -200 fw-bold'>My Services</h2>
            <div className='services-container w-75 mx-auto'>
            {
-               services.map(service=><Service key={service.id} service={service}></Service>)
+               services.map(service=><Service key={service._id} service={service}></Service>)
            }
            </div>
        
