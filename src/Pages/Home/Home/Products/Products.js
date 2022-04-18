@@ -6,7 +6,7 @@ import Product from '../Product/Product';
 
 const Products = () => {
     const products=[
-        {id:1,name:'incline bench',price:'$2000',img:proucts1},
+        {id:1,name:'Incline bench',price:'$2000',img:proucts1},
         {id:2,name:'Ab rollercoster',price:'$1500',img:proucts2},
         {id:3,name:'Workout Gear',price:'$1000',img:proucts3},
     ]

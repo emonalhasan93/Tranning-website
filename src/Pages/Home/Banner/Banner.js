@@ -18,8 +18,8 @@ const Banner = () => {
             alt="First slide"
           />
           <Carousel.Caption>
-          <h1>This is my First Tranning Success</h1>
-            <h3 className='text-info'>After 25 days Workout</h3>
+          <h1>As a trainner my first Success</h1>
+            <h3 className='text-info'>After 25 days TrainedUp</h3>
           
           </Carousel.Caption>
         </Carousel.Item>
@@ -31,8 +31,8 @@ const Banner = () => {
           />
   
           <Carousel.Caption>
-              <h1>This is my Second Tranning Success</h1>
-            <h3 className='text-info'>After six month workout</h3>
+              <h1>As a trainner my second Success</h1>
+            <h3 className='text-info'>After six month Trainedup</h3>
            
           </Carousel.Caption>
         </Carousel.Item>
@@ -44,8 +44,8 @@ const Banner = () => {
           />
   
           <Carousel.Caption>
-              <h1>This is my Best Tranning Sucess</h1>
-            <h3 className='text-info'>After 1 year workout</h3>
+              <h1>As a trainner my Ultimate Success</h1>
+            <h3 className='text-info'>After 1 year Trainedup</h3>
           
           </Carousel.Caption>
         </Carousel.Item>
