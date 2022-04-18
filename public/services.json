@@ -1,0 +1,27 @@
+[
+    {
+      "_id": "1",
+      "picture":"https://i.ibb.co/1dTNdhZ/istockphoto-1316173356-170667a.jpg" ,
+      "name": "Hand workout Service",
+      "price": "$50",
+      "Description": "Hand workout can make your hand muscle too strong.I apply this for 3 days in a week"
+
+
+    },
+    {
+      "_id": "2",
+      "picture": "https://i.ibb.co/j6C5rXk/leg-workouts-for-men-7-best-workouts-for-quads-glutes-hams-header-v2-960x540.jpg"  ,
+      "name": "Leg workout Service",
+      "price": "$100",
+      "Description": "Leg workout can make your Leg muscle too strong.I apply this service for 4 days in a week"
+    },
+    {
+      "_id": "3",
+      "picture": "https://i.ibb.co/MCbB8D7/total-package-workout.jpg" ,
+      "name": "Whole body Workout",
+      "price": "$400",
+      "Description": "WholeBody workout can make your WholeBody muscle too strong.I apply this service for 1 days in a "
+      
+    }
+]
+ 
